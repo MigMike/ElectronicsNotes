@@ -27,3 +27,23 @@
 - Precision -positional servo
 - feedback - positional sensor
 - torque & speed 
+
+
+# UART 
+
+- Universal Asynchronous Receiver/Transmitter
+- Hardware protocol(serial)
+- exchanges data serially
+
+## Working principle
+
+- Two wires (1- transmit 2- receives)
+- Frame[start bit | data bits |  parity bits | stop bits]
+- Different clock speed devices can comms
+
+
+# SPI
+
+- Serial Peripheral Interface
+- Short distance 
+- 

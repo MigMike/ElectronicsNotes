@@ -53,7 +53,6 @@
 - Master-Slave configuration
 - Data transmission in both directions using Serial clock[SCK],Serial data out[SDO],Serial data in[SDI] pins.
 
-
 # I2C
 
 - Inter-Integrated Circuit [serial comms protocol ].
@@ -65,4 +64,3 @@
 - Slave compares the addresses and if matches it sends ACK bit.
 - Master sends the register address it wants to write to. 
 - Slave acknowledges again before master sends data.Then it's ends transmission with a STOP condition.
-- 

@@ -63,7 +63,7 @@
 - Slave acknowledges again before master sends data.Then it's ends transmission with a STOP condition.
 
 # PROJECTS
- 001
+ 
 # CONTROLLING A STEPPER MOTOR WITH ARDUINO
 
 ## Introduction
@@ -132,8 +132,8 @@ void loop() {
 ## Conclusion
 
 - Using an Arduino with a ULN2003 driver makes it simple to control a stepper motor for precise movements.                                                                                - This setup is ideal for robotics, automation, and CNC applications.
+
  
-002
  # 12V and 5V Regulated Power supply
 
  ## Introduction:
